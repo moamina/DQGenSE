@@ -1,0 +1,48 @@
+{
+  "Pattern Matching": [
+    "expect_column_values_to_match_regex"
+  ],
+  "Timestamp Validity": [
+    "expect_column_values_to_match_strftime_format"
+  ],
+  "Duplicate Check": [
+    "expect_column_values_to_be_unique"
+  ],
+  "Standard Format Check": [
+    "expect_column_values_to_match_regex"
+  ],
+  "Outlier Detection": [
+    "expect_column_distribution_kl_divergence_to_be_less_than"
+  ],
+  "Aggregate Consistency": [
+    "expect_column_sum_to_be_between",
+    "expect_column_mean_to_be_between"
+  ],
+  "Schema Compliance": [
+    "expect_table_columns_to_match_ordered_list"
+  ],
+  "Range Check": [
+    "expect_column_values_to_be_between"
+  ],
+  "Uniqueness Check": [
+    "expect_column_values_to_be_unique"
+  ],
+  "Non-null Check": [
+    "expect_column_values_to_not_be_null"
+  ],
+  "Format or Pattern Matching": [
+    "expect_column_values_to_match_regex"
+  ],
+  "Referential Integrity": [
+    "expect_column_values_to_match_other_table"
+  ],
+  "Type": [
+    "expect_column_values_to_be_of_type"
+  ],
+  "minLength": [
+    "expect_column_min_to_be_between"
+  ],
+  "maxLength": [
+    "expect_column_max_to_be_between"
+  ]
+}
